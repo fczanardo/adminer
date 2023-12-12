@@ -1,0 +1,5 @@
+applications:
+- name: nome-da-sua-aplicacao
+  memory: 128M
+  buildpacks:
+  - php_buildpack
